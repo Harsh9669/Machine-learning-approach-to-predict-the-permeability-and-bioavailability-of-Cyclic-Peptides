@@ -1,0 +1,9 @@
+numpy 
+pandas 
+rdkit
+sklearn
+streamlit
+tensorflow
+keras
+xgboost
+imblearn
