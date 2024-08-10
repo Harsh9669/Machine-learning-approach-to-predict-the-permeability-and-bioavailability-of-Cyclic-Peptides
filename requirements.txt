@@ -1,6 +1,6 @@
 numpy 
 pandas 
-rdkit
+Rdkit
 scikit-learn
 streamlit
 tensorflow
